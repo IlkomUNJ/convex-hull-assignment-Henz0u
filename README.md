@@ -21,7 +21,7 @@ fast
 5 = 6-12
 
 # Collaboration usage
-i have a collaboration with Muhammad Vlas, we had a conversation just to recheck if our algorithm gives the right amount of iteration, this explain the 3rd query i write.
+i have a collaboration with Muhammad Vlas, we had a conversation just to recheck that the expected output from both slow and fast algorithm gives the right amount of iteration, this explain the 3rd query i write.
 
 # Commit Rules
 Use .gitignore to stripe any binaries from the resulting build before commit.  If you cloned directly from the template, you are safe. 
