@@ -1,0 +1,9 @@
+C:/Users/LENOVO/Documents/zufar/qtcreator/Redline_btn/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/Redline_btn.dir
+C:/Users/LENOVO/Documents/zufar/qtcreator/Redline_btn/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/Documents/zufar/qtcreator/Redline_btn/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/LENOVO/Documents/zufar/qtcreator/Redline_btn/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/LENOVO/Documents/zufar/qtcreator/Redline_btn/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/LENOVO/Documents/zufar/qtcreator/Redline_btn/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/LENOVO/Documents/zufar/qtcreator/Redline_btn/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/LENOVO/Documents/zufar/qtcreator/Redline_btn/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/Redline_btn_autogen_timestamp_deps.dir
+C:/Users/LENOVO/Documents/zufar/qtcreator/Redline_btn/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/Redline_btn_autogen.dir
