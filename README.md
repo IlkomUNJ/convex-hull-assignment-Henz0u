@@ -5,7 +5,7 @@ Name : Muhammad Zufar Al Faruqi (1313623041)
 # AI usage
   mostly on Perplexity
 1. create a qt6 code that consist of: A canvas , Run Convex Hull Button , and Clear Button
-2. Implement both slow convex hull and convex hull algorithm <insert the algorithm from deberg.pdf> and write the iteration number on canvas
+2. Implement both slow convex hull and convex hull algorithm <insert the algorithm from deberg . pdf> and write the iteration number on canvas
 3. Asking both gpt and gemini to double check if the algoritm give the correct amount of iterations
 4. why i got 12 iterations on Slow Convex Hull (O(n³))  for 3 vertices, when it supposed to be 6
 and there is something wrong with fast convex hull too the total iterations should be 2-4, and i got 8 iterations?
